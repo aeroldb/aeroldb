@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aeroldb
 - 👀 I’m interested in Blockchain and DApp
-- 🌱 I’m currently learning solidity, ReactJS and NodeJS
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
